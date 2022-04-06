@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lorenzoernesto
+- 👀 I’m interested in Ruby, Elixir, Kotlin, FP, XP and setting up teams to be successful.
+- 🌱 I’m currently learning Java, Elixir, Kotlin and how to reconcile stable, effective teams with cycles of product focus.
+- 💞️ I’m looking to collaborate on rekindling XP as a vital part of software development.
+- 📫 How to reach me larry-dot-baltz at thoughtworks-dot-com
